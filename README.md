@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Jeremy
+- 👀 I’m interested in GIS
+- 🌱 I'm a Junior GIS Specialist
+- 📫 You can reach me at jeremy@kartoza.com
